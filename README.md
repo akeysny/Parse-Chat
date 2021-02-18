@@ -12,3 +12,7 @@ in this lab you are building a chat client using Parse to explore the features o
 - [x] View a List of chat messages
 
 <img src="http://g.recordit.co/jn9vEGXPWb.gif" width=250><br>
+
+- [x] Sign Up
+
+<img src="http://g.recordit.co/6Vq3xdvmnS.gif" width=250><br>
