@@ -17,4 +17,3 @@ in this lab you are building a chat client using Parse to explore the features o
 
 <img src="http://g.recordit.co/6Vq3xdvmnS.gif" width=250><br>
 
-<a href="https://imgflip.com/gif/4yuytb">via Imgflip</a></p></div>
